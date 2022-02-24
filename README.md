@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Oi meu nome é Math, estudante de programação e engenharia de software!
 
 <div align="center">
