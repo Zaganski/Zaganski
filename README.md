@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/zaganski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaganski&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaganski&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaganski&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
   
   
@@ -20,8 +20,6 @@
  
 <div> 
   <a href = "mailto:mathserpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/zaganski/zaganski/blob/output/github-contribution-grid-snake.svg)
-  
- 
+  <a href="https://www.linkedin.com/in/matheus-serpa-4271a7206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+![Snake animation](https://github.com/zaganski/zaganski/blob/output/github-contribution-grid-snake.svg)
