@@ -1,5 +1,5 @@
 
-## Oi meu nome é Math, estudante de programação e engenharia de software!
+## Oi meu nome é Matheus, estudante de programação e engenharia de software!
 
 <div align="center">
   <a href="https://github.com/zaganski">
@@ -10,10 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
